@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 0;
+}
+.fondo{
+    background-image: url(fondo2.jpg);
+    height: 110vh;
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.select{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border-width: 50vh;
+}
+.navegacion1{
+    width: 15em;
+    height: 3em;
+}
+.boton{
+    align-items: center;
+    justify-content: center;
+    color: black;
+    display: flex;
+    flex-direction: column;
+}
