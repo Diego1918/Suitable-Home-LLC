@@ -26,6 +26,7 @@ h1{
 .navegacion1{
     width: 15em;
     height: 3em;
+    border-radius: 50px;
 }
 .boton{
     align-items: center;
@@ -33,4 +34,11 @@ h1{
     color: black;
     display: flex;
     flex-direction: column;
+}
+iframe{
+    align-items: center;
+    justify-content: center;
+    display: block;
+    margin: 0 auto;
+    padding: 0px;
 }
