@@ -4,7 +4,7 @@
     margin-bottom: 0;
 }
 .fondo{
-    background-image: url(fondo2.jpg);
+    background-image: url(imagenes/fondo2.jpg);
     height: 110vh;
     background-size: cover;
     background-position: center;
@@ -33,4 +33,24 @@ h1{
     color: black;
     display: flex;
     flex-direction: column;
+}
+.logo-git{
+    width: 32px;
+    height: 16px;
+    border-radius: 50%;
+    float:right
+    
+    
+}
+.git{
+margin: 0px 550px;  
+
+}  
+
+h4{
+    text-align: center;
+}
+
+footer{
+    background-color: grey;
 }
